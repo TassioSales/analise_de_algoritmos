@@ -1,9 +1,1 @@
-# Analise de Algoritmos para ciencias de dados 
-
-# Teste
-
-# Atualizando dados
-
-# testando commit
-
-# teste final 
+# Analise de Algoritmos para ciencias de dados
